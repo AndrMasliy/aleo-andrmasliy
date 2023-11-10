@@ -1,4 +1,4 @@
-## Discord: andriymasliy
+Discord: andriymasliy
 
 <!-- # ⭕ Tic-Tac-Toe -->
 
